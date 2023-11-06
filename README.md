@@ -12,4 +12,12 @@
 
 - MDN
 
+- Courses:
+
+- [Javascript30](https://javascript30.com/) - 30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks. No Compilers. No Libraries. No Boilerplate.
+
+- [Anjela Web](https://www.udemy.com/course/the-complete-web-development-bootcamp/)) - The Complete Web Development Bootcamp
+
+- [Jonas JS](https://www.udemy.com/course/the-complete-javascript-course/)) - The Complete JavaScript Course  Build Real Projects!
+
 
