@@ -20,4 +20,6 @@
 
 - [Jonas JS](https://www.udemy.com/course/the-complete-javascript-course/)) - The Complete JavaScript Course  Build Real Projects!
 
+    - [resources](https://codingheroes.io/resources/)
+
 
