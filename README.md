@@ -9,3 +9,6 @@
 - **Codeium** - AI vscode add on - explain code
 
 - [Js roadmap](https://roadmap.sh/javascript)
+
+- [ ] task
+- [x] task2
