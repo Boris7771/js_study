@@ -10,5 +10,4 @@
 
 - [Js roadmap](https://roadmap.sh/javascript)
 
-- [ ] task
-- [x] task2
+
