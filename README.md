@@ -28,6 +28,6 @@
 
   ## HTML RESOURCES
 
-  [Jonas resources](https://codingheroes.io/resources/)
+ - [Jonas resources](https://codingheroes.io/resources/)
 
 
