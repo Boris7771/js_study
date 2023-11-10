@@ -26,6 +26,8 @@
     - [starter code](https://github.com/jonasschmedtmann/complete-javascript-course)
  
 
-  ## HTML RESOURCES 
+  ## HTML RESOURCES
+
+  [Jonas resources](https://codingheroes.io/resources/) 
 
 
